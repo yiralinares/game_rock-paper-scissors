@@ -4,7 +4,6 @@ The rock, paper, scissors game in javascript. Beginner friendly.
 ### 1920 x 1080
 ![Wireframe - 3](https://user-images.githubusercontent.com/103174369/222278047-a5d97c04-0709-4d56-a41f-85cbd3322778.png)
 
-# Game_Rock**-Paper-Scissors**
 
 ## Challenge
 
